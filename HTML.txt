@@ -1,0 +1,11 @@
+HTML
+"hyper text marked up language."
+syntax:
+<html>
+      <head>
+          <title>.....</title>
+      </head>
+      <body>
+      </body>
+</html>
+      
